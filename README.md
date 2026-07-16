@@ -46,3 +46,12 @@ If these MIDI files are used in a church setting that is livestreamed or recorde
 In many cases, this includes a **CCLI Streaming License** or equivalent copyright license depending on region and usage.
 
 This repository does not grant any performance, streaming, or mechanical rights. All responsibility for proper licensing remains with the end user or organization.
+
+
+## Related Resources
+If this resource isn't what you are looking for, (Looking for stems or other versions), see below (I am not responsible for anything provided by these websites or if they are up to date, secure, etc.):
+* https://www.hymnsite.com/
+* https://www.christianstudy.com/methodist.html
+* https://www.kunstderfuge.com/hymns.htm
+* https://www.hymnallibrary.org/hymns/hymns/index/midi/
+* http://openhymnal.org/
